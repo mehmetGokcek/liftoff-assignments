@@ -20,6 +20,7 @@ Therefore, I wanted to be able to compare prices for similar products across loc
 
 ### Features
 User Login: Users can create profiles and log in to their accounts.
+Social Media Login: Users can user social media accounts to log in.
 Create new items: Users can create, delete, update products/items, add description, retail location and unit cost.
 Upload Media Files: Users can upload pictures of the items.
 Mobile Phone Browser Compability: Webapp would allow picture upload on mobile paltforms.
@@ -33,12 +34,16 @@ List: Users can list the items based on Name, Location and Unit Cost.
 ### Technologies
 C#
 ASP.NET Core
-VanillaJS
+MVC 
 Bootstrap
 MySQL Database
 Razor View
 
 ### What I'll Have to Learn
-Include what you will need to learn here
+Third-party Authentication (Google, Facebook etc.)
+Upload Media Files - How to upload, manage and access picture/photo files.
+Mobile Browser compability to enable in-store item/product creation.
+Google Maps API integration to show location of the local retailers and grocery stores
+
 ### Project Tracker
 Link to your Trello board here
