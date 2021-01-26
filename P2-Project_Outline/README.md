@@ -46,4 +46,4 @@ Mobile Browser compability to enable in-store item/product creation.
 Google Maps API integration to show location of the local retailers and grocery stores
 
 ### Project Tracker
-Link to your Trello board here
+https://trello.com/b/EV5l8mUs
